@@ -141,13 +141,15 @@ padding:0;
 font-weight:700;
 color:#009;
 padding:5px 0;
-text-align:center;
 padding:0;
-margin-top:0;}
+margin-top:0;
+text-align:center;
+
+}
 
 
 .second-bottom-first-right-word2{font-size:16px;
-font-weight:600;
+font-weight:700;
 color:#060606;
 padding:2px 0;
 text-align:center;
@@ -155,10 +157,10 @@ text-align:center;
 
 
 .second-bottom-first-right-word3{font-size:13px;
-font-weight:600;
+font-weight:400;
 color:#333;
 text-align:left;
-}
+padding:0;}
 
 
 
@@ -311,6 +313,8 @@ height:18px;}
 .text{font-size:30px;}
 .second-bottom-first-right-word1{font-size:22px;}
 .second-bottom-first-right-word2{font-size:20px;}
+.second-bottom-first-right-word3{font-size:15px;}
+
 .my-word1{font-size:30px;}
 .my-word2{font-size:22px;}
 .second-lg{height:600px;}
@@ -323,12 +327,15 @@ height:18px;}
 @media screen and (min-width:1200px){ 
 .word1{font-size:65px;}
 
-.last-bottom-word{font-size:30px;}
+.last-bottom-word{font-size:28px;}
 
 .text{font-size:35px;}
 
-.second-bottom-first-right-word1{font-size:35px;}
+.second-bottom-first-right-word1{font-size:30px;}
 .second-bottom-first-right-word2{font-size:25px;}
+.second-bottom-first-right-word3{font-size:16px;}
+
+
 .my-word1{font-size:35px;}
 .my-word2{font-size:22px;}
 .second-lg{height:600px;}
@@ -338,7 +345,7 @@ height:18px;}
 
 
 
-
+.text-left{text-align:left;}
 
 
 
