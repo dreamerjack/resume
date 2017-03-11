@@ -88,7 +88,7 @@ $('.second-one').eq(index).stop(true,true).fadeIn().siblings().stop(true,true).f
 	})
 	
 	
-	$('.second-4,.second-top-last,.c,.bigimg1').click(function(){
+	$('.second-4,.second-top-last,.c').click(function(){
 	$('.bigimg3').hide()
 	$('.bigimg1').hide()
 	$('.second').removeClass('second-click')
@@ -96,20 +96,7 @@ $('.second-one').eq(index).stop(true,true).fadeIn().siblings().stop(true,true).f
 		})
 	
 	
-	
-	
-		
-	
-	
-	
-	
-	
 	//点击图片放大结束
-	
-	
-	
-	
-	
 	
 	
 	
