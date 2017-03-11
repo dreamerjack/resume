@@ -36,7 +36,7 @@ cursor:pointer;}
 
 
 
-.a{height:600px;
+.a{height:645px;
 }
 
 .c{background:#404040;
@@ -210,10 +210,11 @@ cursor:pointer;
 }
 
 
-.bigimg{height:600px;
+.bigimg{height:550px;
 padding:0;
-position:absolute;
-top:220px;
+position:fixed;
+top:50px;
+left:50px;
 display:none;
 
 }
@@ -317,7 +318,7 @@ height:18px;}
 
 .my-word1{font-size:30px;}
 .my-word2{font-size:22px;}
-.second-lg{height:600px;}
+.second-lg{height:645px;}
 .bg{right:-20px;}
 .list-group-bg{font-size:30px;} 
 
@@ -338,7 +339,7 @@ height:18px;}
 
 .my-word1{font-size:35px;}
 .my-word2{font-size:22px;}
-.second-lg{height:600px;}
+.second-lg{height:645px;}
 .bg{right:-30px;}
 .list-group-bg{font-size:35px;} 
 }
