@@ -96,7 +96,20 @@ $('.second-one').eq(index).stop(true,true).fadeIn().siblings().stop(true,true).f
 		})
 	
 	
+	
+	
+		
+	
+	
+	
+	
+	
 	//点击图片放大结束
+	
+	
+	
+	
+	
 	
 	
 	
